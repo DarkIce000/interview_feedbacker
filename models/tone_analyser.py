@@ -31,3 +31,6 @@ audio_data, labels = load_data(data_folder='/home/aaru/Projects/Academic/intervi
 
 # Split the dataset into training and testing sets
 X_train, X_test, y_train, y_test = train_test_split(audio_data, labels, test_size=0.2, random_state=42)
+
+
+# for  new commit 
